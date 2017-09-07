@@ -1,5 +1,5 @@
 //var path = 'https://web.stanford.edu/~chakia/CoCoLab/corpus_generics/generics_project/results/';
-var path = 'http://localhost:8000/prevalence/js/final_database.txt';
+var path = 'https://raw.githubusercontent.com/Blubberli/Blubberli.github.io/master/prevalence/js/final_database.txt';
 //var fname = 'sample19_plus.tab';
  
 function get_data(fullpath) {
